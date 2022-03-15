@@ -1,0 +1,2 @@
+# coinFlip
+Making coinFlip app
